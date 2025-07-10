@@ -1,0 +1,4 @@
+
+Emp = ['EMP_ID'+' :- '+str(x) for x in range (7)]
+Emp
+ 
