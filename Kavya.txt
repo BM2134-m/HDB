@@ -1,4 +1,6 @@
 
 Emp = ['EMP_ID'+' :- '+str(x) for x in range (7)]
 Emp
- 
+
+Salary = np.random.randint(low=21,high-61,size=7)
+Salary
